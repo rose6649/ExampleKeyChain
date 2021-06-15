@@ -23,8 +23,6 @@ keyChain은 Apple OS에서 동작하는 응용 프로그램의 보안에 필요�
 > kSecAttrService = com.keychain
 > kdSecAttrAccount = ynwa3690@keychain.com
 
-![image-20210601032645956](/Users/hiju/Library/Application Support/typora-user-images/image-20210601032645956.png)
-
 
 
 예시 파일은 key, value 형식으로 저장할 수 있게 구현했습니다. 
